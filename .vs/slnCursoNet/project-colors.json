@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45e6ac4f-2b1f-48fc-a5ff-cfc6175824f0": {
+      "ProjectGuid": "45e6ac4f-2b1f-48fc-a5ff-cfc6175824f0",
+      "DisplayName": "slnCursoNet",
+      "ColorIndex": 0
+    },
+    "08574112-7ae4-47c3-981c-9d4cb57da239": {
+      "ProjectGuid": "08574112-7ae4-47c3-981c-9d4cb57da239",
+      "DisplayName": "WindowsApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
