@@ -11,7 +11,7 @@ namespace Negocio
     {
         public void Agregar(Producto Item, int Cantidad) { }
 
-        public void Modificar (int Cantidad) { }
+        public void Modificar(int Cantidad) { }
 
         public void Eliminar (string Nombre) { }
 

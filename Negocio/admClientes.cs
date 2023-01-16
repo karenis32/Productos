@@ -10,12 +10,11 @@ namespace Negocio
 {
     public class admClientes
     {
-        List<ClienteIndividuo> clienteIndividuos = new List<ClienteIndividuo>();
-        List<Empresa> ListaEmpresas = new List<Empresa>();
 
         public List<ClienteIndividuo> ListarClienteIndividuo()
         {
-            return clienteIndividuos;
+            //select Lista de clienteIndividuo
+            return null;
         }
 
         public ClienteIndividuo ListarClienteIndividuo(string CUIT)
@@ -26,7 +25,8 @@ namespace Negocio
 
         public List<Empresa> ListarClienteEmpresa()
         {
-            return ListaEmpresas;
+            //Select Lista de ClienteEmpresa
+            return null;
         }
 
         public Empresa ListarClienteEmpresa(string CUIT)

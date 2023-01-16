@@ -9,26 +9,28 @@ namespace Negocio
 {
     public class admProductos
     {
-        List<Producto> ListaProductos = new List<Producto>();
 
         public List<Producto> Listar()
         {
-            return ListaProductos;
+            //Select Lista de productos
+            return null;
         }
 
         public List<Producto> Listar(string Categoria)
         {
-            return ListaProductos;
+            //Select Lista de productos filtrando por categoria
+            return null;
         }
 
         public List<Producto> Listar(string Categoria, string SubCategoria)
         {
-            return ListaProductos;
+            //Select Lista de productos filtrando por categoria y subcategoria
+            return null;
         }
 
         public Producto ListarDetalle(string Nombre)
         {
-            //Select Producto por Nombre
+            //Select Producto filtrando por Nombre
             return null;
         }
     }
