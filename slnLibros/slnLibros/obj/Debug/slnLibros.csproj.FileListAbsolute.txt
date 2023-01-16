@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\bin\Debug\slnLibros.exe.config
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\bin\Debug\slnLibros.exe
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\bin\Debug\slnLibros.pdb
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.Form1.resources
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.Properties.Resources.resources
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.csproj.CopyComplete
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.exe
+C:\Users\Usuario\source\repos\slnLibros\slnLibros\obj\Debug\slnLibros.pdb
