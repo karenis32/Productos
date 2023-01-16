@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\slnCursoNet\Productos\Productos\Entidades\obj\Debug\Entidades.pdb

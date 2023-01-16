@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Entidades
+namespace Entidades
 {
     public class Producto
     {
@@ -34,7 +34,17 @@ namespace WindowsApp.Entidades
         public string Categoria { get; set; }
         public string SubCategoria { get; set; }
 
-
-
+        public Producto(string nombre, string descripcion, decimal precioCosto, double iVA, double margen, 
+            string proveedor, string categoria, string subCategoria)
+        {
+            Nombre = nombre;
+            Descripcion = descripcion;
+            PrecioCosto = precioCosto;
+            IVA = iVA;
+            Margen = margen;
+            Proveedor = proveedor;
+            Categoria = categoria;
+            SubCategoria = subCategoria;
+        }
     }
 }
